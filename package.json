@@ -1,0 +1,24 @@
+{
+  "name": "neptune",
+  "displayName": "Neptune",
+  "description": "",
+  "version": "0.0.1",
+  "author": {
+    "name": "Harry"
+  },
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Neptune",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Neptune-color-theme.json"
+      }
+    ]
+  }
+}
